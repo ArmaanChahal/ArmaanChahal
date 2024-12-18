@@ -11,14 +11,9 @@
 
 ![ArmaanChahal's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmaanChahal&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
+
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/armaanchahal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="armaanchahal" height="30" width="40" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -63,3 +58,20 @@
   </a> 
 </p>
 
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/armaanchahal" target="_blank" >
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  LinkedIn
+</p>
+
+<p align="left">
+  <a href="https://armaanchahal.github.io/Portfolio" target="_blank" style="color: white; text-decoration: none;">
+    🌐
+  </a>
+  Portfolio
+</p>
